@@ -2,7 +2,6 @@ package hello.core2.scan;
 
 import hello.core2.AutoAppConfig;
 import hello.core2.member.MemberService;
-import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
